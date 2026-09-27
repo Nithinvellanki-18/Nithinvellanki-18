@@ -12,20 +12,28 @@ I'm building practical data analytics projects focused on turning business data 
 - 🐍 Python
 - 🔄 Data Analytics
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-**🛒 Blinkit Grocery Sales Analysis — SQL**
+### 📦 SCMS Supply Chain Analysis — Excel
+Supply chain performance analysis covering shipment performance, vendor analysis, freight costs, delivery performance and an interactive dashboard.
 
-PostgreSQL-based analysis covering data cleaning, KPIs, business questions, subqueries, and window functions.
+🔗 [View Project](https://github.com/Nithinvellanki-18/scms-supply-chain-analysis-excel)
+
+### 🛒 Blinkit Grocery Sales Analysis — SQL
+PostgreSQL analysis covering data cleaning, KPIs, business questions, subqueries and window functions.
 
 🔗 [View Project](https://github.com/Nithinvellanki-18/blinkit-sales-analysis-sql)
 
+### 📱 Mobile Sales Dashboard — Power BI
+Interactive Power BI dashboard using DAX, Power Query and data modeling to analyze mobile sales performance.
+
+🔗 [View Project](https://github.com/Nithinvellanki-18/mobile-sales-dashboard-powerbi)
+
 ### 📚 Currently Learning
 
-- Python for Data Analytics
-- Advanced SQL
-- Supply Chain Analytics
-- Business Intelligence
+- 🐍 Python for Data Analytics
+- 📦 Supply Chain Analytics
+- 📊 Advanced Business Intelligence
 
 ### 🎯 Career Focus
 
