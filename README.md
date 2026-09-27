@@ -41,4 +41,4 @@ Business Analytics | Supply Chain Analytics | Data Analytics
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nithin-vellanki-040085271/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nithin-vellanki)
